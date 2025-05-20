@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jesús Casañas
 
-Welcome to my Grid Dynamics GitHub profile! Here you’ll find the Grid Dynamics projects, and contributions focused on web and software development.
+Welcome to my Grid Dynamics GitHub profile! Here you’ll find the Grid Dynamics projects, Grid Dynamics courses and contributions focused on web and software development.
 
 ---
 
